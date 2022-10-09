@@ -2,8 +2,7 @@
 
 Description. 
 The package hello_world is used to:
-	- 
-	-
+	- Print 'Hello World'
 
 ## Installation
 
