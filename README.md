@@ -1,3 +1,8 @@
+# Exemplo de criação de pacote Python
+
+Disponível em: https://test.pypi.org/project/hello-world-ultimat/0.0.1/
+
+
 # package_name
 
 Description. 
@@ -6,7 +11,7 @@ The package hello_world_ultimate is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install hello_world
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install hello_world_ultimate
 
 ```bash
 pip install hello_world_ultimate
